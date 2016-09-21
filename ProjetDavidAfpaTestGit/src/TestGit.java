@@ -19,6 +19,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		
 		///////// NOUVELLE MODIFICATION
+		///////// NOUVELLE MODIFICATION ///////// NOUVELLE MODIFICATION
 	}
 
 }
